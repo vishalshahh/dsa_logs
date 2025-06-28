@@ -1,0 +1,13 @@
+
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug Problem",
+      "request": "launch",
+      "mainClass": "Problem",
+      "classPaths": ["bin"]
+    }
+  ]
+}
