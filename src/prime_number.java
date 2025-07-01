@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Problem1 {
+public class prime_number {
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
     int n = in.nextInt();
